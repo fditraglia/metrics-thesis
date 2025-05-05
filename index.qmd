@@ -1,0 +1,104 @@
+---
+title: "How to Write an MPhil Thesis in Econometrics"
+author: 'Francis J. DiTraglia'
+institute: 'University of Oxford'
+from: markdown+emoji
+execute: 
+  echo: true
+format: 
+  revealjs:
+    theme: default 
+embed-resources: true
+---
+
+## \#NotARealEconometrician^[According to Econ Job Market Rumors]
+
+How to follow in my footsteps:
+
+1. Start off researching behavioral / experimental economics.
+2. Realize you need to improve your stats / 'metrics knowledge. 
+3. Do a master's in statistics.
+4. Start noticing dubious econometrics *absolutely everywhere*
+5. Panic; Switch to Econometrics.
+
+
+## :japanese_ogre: *Don't* write a 'Metrics thesis! 
+
+::::: columns
+::: {.column width="60%"}
+
+- You'll probably have a better experience writing a thesis that *uses* econometrics rather than one that is *about* econometrics. 
+
+- This may even be true of you *eventually* want to work in econometrics.
+
+
+Wait, you're still here? :eyes:
+
+:::
+
+
+::: {.column width="40%"}
+
+![](mostlyharmless.jpg){width=80%}
+
+:::
+:::::
+
+## Pushing and Pulling Goals^[<https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/>] {.smaller}
+
+> A pulling goal is when you want to achieve something, so you come up with a plan and a structure. For example, you want to cure cancer, so you become a biologist and set up a lab and do cancer research. Or you want to get rich, so you go to business school and send out your resume.
+>
+> A pushing goal is when you have a plan and a structure, and you’re trying to figure out what to do with it. For example, you’re studying biology in college, your professor says you need to do a research project to graduate, and so you start looking for research to do. You already know the plan – you’re going to get books, maybe use a lab, do biology-ish things, and end up with a finished report which is twenty pages double-spaced. All you need to figure out is what you’re going to select as the nominal point of the activity. There’s something perversely backwards about this – most people would expect that the point of a research project is to research some topic in particular. But from your perspective the actual subject you’re researching is almost beside the point. 
+
+---
+
+
+### Pushing Econometrics :hammer:
+
+> There *must* be a way to apply this random abstruse piece of statistical theory to *something* in the field of economics...
+
+- If all you have is a hammer, every problem looks like a nail.
+- Most published work in econometrics is pushing work.
+- Pure theory *may or may not* be pushing econometrics.
+- But you're not going to do pure theory in an MPhil thesis.
+
+## Pulling Econometrics :magnet: {.smaller}
+
+> When I started as an econometrician, I was busy with inventing new estimators and tests. But after a while it seemed vacuuous to keep inventing things that are hardly used. Just like anybody else, it dawned on me that I should do something "useful." I came across treatment effect analysis, which turned out to be the right topic for me. Working on it has been joyous as well as rewarding. But it seems that the field is being pulled back to where I wanted to escape from. This book may be taken as a small step to change the unfortunate trend, so that econometricians and statisticians can relate better to empirical researchers and make meaningful contributions to the world.^[Myoung-Jae Lee]
+
+- Start by knowing an empirical question well enough to tell what people are *really worried about* methodologically.
+- What are the blind spots of the approaches that people currently use in practice? 
+
+## It's not as hard as it sounds :relieved:
+
+- Arbitrage: method X was originally developed for problem A but maybe it could be applied to problem B.
+
+- Never try to do theory before you've done extensive simulations to see how the method behaves in practice.
+
+- Fortunately, extensive simulations and some discussion could easily be enough for a thesis!
+
+::: {.callout-important}
+## Warning
+An Econometrics thesis takes time; start early and work over the summer!
+:::
+
+## How to read an econometrics paper^[Have I mentioned [my blog](https://econometrics.blog)? :smirk:]
+
+1. Read something else instead.
+2. Don't assume you have to understand the whole thing.
+3. Don't assume you're stupid.
+4. Spread yourself thin.
+5. Explain it to someone else. 
+6. Head straight for the simulation / empirical example.
+7. Make things simpler.
+8. Don't get hung up on technicalities.
+
+## Some Areas to Consider
+
+- **Bayesian Microeconometrics**: Under-used, relatively clear path towards doing something interesting in an MPhil thesis. 
+
+- **Clustered Standard Errors**: massive issue in practice; no one really understands it, vast recent literature. 
+
+- **Event Studies / DiD:** everyone is doing it; everyone is worried they're doing it wrong.
+
+- **Judges Design:** only just starting to get "serious" attention from methodologists; may be some avenues to explore. 
